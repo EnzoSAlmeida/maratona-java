@@ -5,4 +5,8 @@ public class Calculadora {
 	public void somaDoisNumeros() {
 		System.out.println(10+10);
 	}
+	
+	public void subitraiDoisNumero() {
+		System.out.println(21-2 );
+	}
 }
